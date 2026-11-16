@@ -1,0 +1,2 @@
+Simulação da feature/login.
+Commit: Implementa validação de senha.
