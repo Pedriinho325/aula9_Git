@@ -1,0 +1,3 @@
+Simulação de correção urgente.
+Hotfix: header-null.
+Correção: tratamento de cabeçalho nulo.
